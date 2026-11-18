@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16",
+  "generated": "2026-11-17",
   "offers": [
     {
       "id": "rakuten",
@@ -51,8 +51,8 @@
       "verified": "2026-10-29",
       "rail": "hybrid",
       "code": "2FZTXZZ",
-      "code_field": "referral code box when you create your account",
-      "code_moment": "the qualifying $5 send must follow within 14 days",
+      "code_field": "in-app referral code field",
+      "code_moment": "send $5 or more to another person's account within 14 days of entering the code; keep the linked debit card or bank account until the bonus is paid",
       "signup_url": "https://cash.app/refer/2FZTXZZ",
       "signup_url_carries_referral": true,
       "attribution": {
@@ -61,13 +61,13 @@
         "mobile_invitation_url": "https://cash.app/refer/2FZTXZZ",
         "delayed_signup": "provider_managed_not_confirmed",
         "confirmed_click_window_days": null,
-        "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code 2FZTXZZ for the provider's referral field. the qualifying $5 send must follow within 14 days",
+        "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code 2FZTXZZ for the provider's referral field. send $5 or more to another person's account within 14 days of entering the code; keep the linked debit card or bank account until the bonus is paid",
         "credit_confirmation": "The provider must record the referral and confirm all qualifying actions; a click alone does not confirm a reward."
       },
-      "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code 2FZTXZZ for the provider's referral field. the qualifying $5 send must follow within 14 days",
+      "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code 2FZTXZZ for the provider's referral field. send $5 or more to another person's account within 14 days of entering the code; keep the linked debit card or bank account until the bonus is paid",
       "new_user_gets": "a $5 bonus",
       "device": "mobile app",
-      "instruction": "Have the user enter 2FZTXZZ in the referral code box when you create your account (the qualifying $5 send must follow within 14 days). Original invitation: https://cash.app/refer/2FZTXZZ. Open it on the device used to register and check the referral field if one is shown.",
+      "instruction": "Have the user enter 2FZTXZZ in the in-app referral code field (send $5 or more to another person's account within 14 days of entering the code; keep the linked debit card or bank account until the bonus is paid). Original invitation: https://cash.app/refer/2FZTXZZ. Open it on the device used to register and check the referral field if one is shown.",
       "watch_out": "The 14 days start when you enter the code, and each new user can claim only one referral bonus. The $5 you send must go to someone else, not an account you own or are linked to, and a credit-card-funded send adds a 3% fee. Cash App sets referral amounts per account and can change the code, so check what the app shows. Disclosure: this code currently pays the referrer $50 per qualifying friend.",
       "referrer_limit": null,
       "offer_ends": null,
@@ -99,6 +99,7 @@
       "signup_url_carries_referral": true,
       "attribution": {
         "method": "provider_link",
+        "invitation_link_required": true,
         "original_invitation_url": "https://hrb.onelink.me/aSsa/n5fxtyjf",
         "mobile_invitation_url": "https://hrb.onelink.me/aSsa/n5fxtyjf",
         "delayed_signup": "provider_managed_not_confirmed",
@@ -134,6 +135,7 @@
       "signup_url_carries_referral": true,
       "attribution": {
         "method": "provider_link",
+        "invitation_link_required": true,
         "original_invitation_url": "https://www.inboxdollars.com?rb=216935411",
         "mobile_invitation_url": "https://www.inboxdollars.com?rb=216935411",
         "delayed_signup": "provider_managed_not_confirmed",
@@ -160,15 +162,16 @@
       "name": "Novig",
       "category": "Sports & Fantasy",
       "page": "https://financeappradar.com/novig-referral-code/",
-      "verified": "2026-10-29",
+      "verified": "2026-11-17",
       "rail": "hybrid",
       "code": "0AE342",
-      "code_field": "referral code field at sign-up",
+      "code_field": "any referral-code prompt shown after opening the original invitation",
       "code_moment": null,
       "signup_url": "https://novig.onelink.me/JHQQ/vbv1in0a",
       "signup_url_carries_referral": true,
       "attribution": {
         "method": "provider_link_and_code",
+        "invitation_link_required": true,
         "original_invitation_url": "https://novig.onelink.me/JHQQ/vbv1in0a",
         "mobile_invitation_url": "https://novig.onelink.me/JHQQ/vbv1in0a",
         "delayed_signup": "provider_managed_not_confirmed",
@@ -180,7 +183,7 @@
       "new_user_gets": "$50 in Trade Credits",
       "device": "mobile app",
       "instruction": "Open https://novig.onelink.me/JHQQ/vbv1in0a on the phone used to register, before creating the account. Keep referral code 0AE342 for any referral-code prompt; the official program requires registration through the invitation link.",
-      "watch_out": "Credits are buying power, not cash: they work only on contracts priced $0.01 to $0.60 and cannot be withdrawn. The referrer gets $25 in Referral Credits (plus 2,500 Novig Points) once they have also deposited $10+, placed 5 trades and risked $50 of their own money. Trading can lose money; never trade what you cannot afford to lose.",
+      "watch_out": "Credits are buying power, not cash: they work only on contracts priced $0.01 to $0.60 and cannot be withdrawn. The referrer gets $25 in Referral Credits once they have also deposited $10+, completed 5 qualifying trades and risked $50 of their own money. Trading can lose money; never trade what you cannot afford to lose.",
       "referrer_limit": "5 referred friends per referrer",
       "offer_ends": null,
       "referrer_reward": {
@@ -309,6 +312,7 @@
       "signup_url_carries_referral": true,
       "attribution": {
         "method": "provider_link",
+        "invitation_link_required": true,
         "original_invitation_url": "https://sportzino.com/signup/b1e73769-068a-4dba-8b2a-9c17bf2d25b9",
         "mobile_invitation_url": "https://sportzino.com/signup/b1e73769-068a-4dba-8b2a-9c17bf2d25b9",
         "delayed_signup": "provider_managed_not_confirmed",
@@ -344,6 +348,7 @@
       "signup_url_carries_referral": true,
       "attribution": {
         "method": "provider_link",
+        "invitation_link_required": true,
         "original_invitation_url": "https://promos.betr.app/referafriend/sweeps?userId=2784d78a-6376-485f-849c-57f5b082b13e",
         "mobile_invitation_url": "https://promos.betr.app/referafriend/sweeps?userId=2784d78a-6376-485f-849c-57f5b082b13e",
         "delayed_signup": "provider_managed_not_confirmed",
@@ -561,6 +566,7 @@
       "signup_url_carries_referral": true,
       "attribution": {
         "method": "manual_code",
+        "invitation_link_required": false,
         "original_invitation_url": "https://www.capcut.com/capcut_pc_web/fission_receive?code=IpT6sh10781055&lng=en",
         "mobile_invitation_url": "https://www.capcut.com/capcut_pc_web/fission_receive?code=IpT6sh10781055&lng=en",
         "delayed_signup": "requires_code_redemption",
@@ -673,6 +679,7 @@
       "signup_url_carries_referral": true,
       "attribution": {
         "method": "provider_link",
+        "invitation_link_required": true,
         "original_invitation_url": "https://brigit.app.link/1ZzXjzqTF7b",
         "mobile_invitation_url": "https://brigit.app.link/1ZzXjzqTF7b",
         "delayed_signup": "provider_managed_not_confirmed",
@@ -750,6 +757,7 @@
       "signup_url_carries_referral": true,
       "attribution": {
         "method": "provider_link",
+        "invitation_link_required": true,
         "original_invitation_url": "https://www.imagine.art/?referralCode=ref_dgjmua6m&showAuth=true",
         "mobile_invitation_url": "https://www.imagine.art/?referralCode=ref_dgjmua6m&showAuth=true",
         "delayed_signup": "provider_managed_not_confirmed",
@@ -785,6 +793,7 @@
       "signup_url_carries_referral": true,
       "attribution": {
         "method": "provider_link",
+        "invitation_link_required": true,
         "original_invitation_url": "https://manus.im/invitation/CVKGXD09ZA6AEN1",
         "mobile_invitation_url": "https://manus.im/mobile-app/invite?code=MNRBH4SG7PVWZL&utm_source=invitation&utm_medium=social&utm_campaign=qr_code",
         "delayed_signup": "provider_managed_not_confirmed",
@@ -855,6 +864,7 @@
       "signup_url_carries_referral": false,
       "attribution": {
         "method": "manual_code",
+        "invitation_link_required": false,
         "original_invitation_url": "https://muse.ai/join",
         "mobile_invitation_url": "https://muse.ai/join",
         "delayed_signup": "requires_code_redemption",
