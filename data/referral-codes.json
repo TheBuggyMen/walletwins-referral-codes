@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21",
+  "generated": "2026-11-22",
   "offers": [
     {
       "id": "fetch",
@@ -113,11 +113,12 @@
       "name": "Polymarket US",
       "category": "Sports & Fantasy",
       "page": "https://financeappradar.com/polymarket-referral-code/",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "rail": "hybrid",
       "code": "thebuggymen",
-      "code_field": "referral code field at sign-up (the code is the referrer's username)",
-      "code_moment": null,
+      "market": "us",
+      "code_field": "referral code field during Polymarket US sign-up",
+      "code_moment": "before completing registration; verify the username even if the invite link prefilled it",
       "signup_url": "https://polymarket.us/join/thebuggymen",
       "signup_url_carries_referral": true,
       "attribution": {
@@ -126,22 +127,22 @@
         "mobile_invitation_url": "https://polymarket.us/join/thebuggymen",
         "delayed_signup": "provider_managed_not_confirmed",
         "confirmed_click_window_days": null,
-        "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code thebuggymen for the provider's referral field. Follow the offer's registration and qualifying-action deadlines.",
+        "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code thebuggymen for the provider's referral field. before completing registration; verify the username even if the invite link prefilled it",
         "credit_confirmation": "The provider must record the referral and confirm all qualifying actions; a click alone does not confirm a reward."
       },
-      "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code thebuggymen for the provider's referral field. Follow the offer's registration and qualifying-action deadlines.",
-      "new_user_gets": "a $25 trading credit",
+      "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code thebuggymen for the provider's referral field. before completing registration; verify the username even if the invite link prefilled it",
+      "new_user_gets": "a promotional trading credit if you meet your active Refer-A-Friend campaign terms",
       "device": "any",
-      "instruction": "Have the user enter thebuggymen in the referral code field at sign-up (the code is the referrer's username). Original invitation: https://polymarket.us/join/thebuggymen. Open it on the device used to register and check the referral field if one is shown.",
-      "watch_out": "The $25 is a promotional trading credit: you can trade with it and pay fees with it, but you can't withdraw it as cash. Event contracts can lose your whole deposit.",
-      "referrer_limit": "50 referred friends per referrer",
+      "instruction": "Have the user enter thebuggymen in the referral code field during Polymarket US sign-up (before completing registration; verify the username even if the invite link prefilled it). Original invitation: https://polymarket.us/join/thebuggymen. Open it on the device used to register and check the referral field if one is shown. Check the active Refer-A-Friend offer for the credit amount, minimum deposit, qualifying trades and deadline before funding.",
+      "watch_out": "The credit is for positions and fees and cannot be withdrawn as cash. Trading can lose your deposit.",
+      "referrer_limit": "Referral cap is set by the active campaign",
       "offer_ends": null,
       "referrer_reward": {
         "kind": "platform_credits",
         "description": "Polymarket US trading credits"
       },
       "disclosure_text": "The member sharing this referral may receive Polymarket US trading credits when you qualify.",
-      "source": "https://docs.polymarket.us/incentives/user-programs"
+      "source": "https://polymarketexchange.com/files/notices/Exchange%20Notice%20-%20Amended%20Refer-A-Friend%20Incentive%20Program%20%282026.10.26%29.pdf"
     },
     {
       "id": "fliff",
@@ -508,6 +509,7 @@
       "verified": "2026-11-21",
       "rail": "hybrid",
       "code": "CVKGXD09ZA6AEN1",
+      "market": "global",
       "code_field": "redeem box at manus.im/redeem, right after signing up (opening the invitation link first attaches it for you)",
       "code_moment": null,
       "signup_url": "https://manus.im/invitation/CVKGXD09ZA6AEN1",
@@ -614,6 +616,7 @@
       "verified": "2026-10-16",
       "rail": "hybrid",
       "code": "8MK7HP",
+      "market": "global",
       "code_field": "invite code box in the console sidebar",
       "code_moment": "within 3 days of creating the account; the first paid Token Plan must follow within 30 days",
       "signup_url": "https://platform.xiaomimimo.com?ref=8MK7HP",
