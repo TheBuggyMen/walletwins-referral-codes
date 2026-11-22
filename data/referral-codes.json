@@ -613,12 +613,12 @@
       "name": "Xiaomi MiMo",
       "category": null,
       "page": "https://financeappradar.com/xiaomi-mimo-v2-6-review/",
-      "verified": "2026-10-16",
+      "verified": "2026-11-22",
       "rail": "hybrid",
       "code": "8MK7HP",
       "market": "global",
       "code_field": "invite code box in the console sidebar",
-      "code_moment": "within 3 days of creating the account; the first paid Token Plan must follow within 30 days",
+      "code_moment": "within 3 days of creating the account; buy the first paid Token Plan within 30 days of binding the code",
       "signup_url": "https://platform.xiaomimimo.com?ref=8MK7HP",
       "signup_url_carries_referral": true,
       "attribution": {
@@ -627,14 +627,14 @@
         "mobile_invitation_url": "https://platform.xiaomimimo.com?ref=8MK7HP",
         "delayed_signup": "provider_managed_not_confirmed",
         "confirmed_click_window_days": null,
-        "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code 8MK7HP for the provider's referral field. within 3 days of creating the account; the first paid Token Plan must follow within 30 days",
+        "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code 8MK7HP for the provider's referral field. within 3 days of creating the account; buy the first paid Token Plan within 30 days of binding the code",
         "credit_confirmation": "The provider must record the referral and confirm all qualifying actions; a click alone does not confirm a reward."
       },
-      "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code 8MK7HP for the provider's referral field. within 3 days of creating the account; the first paid Token Plan must follow within 30 days",
+      "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code 8MK7HP for the provider's referral field. within 3 days of creating the account; buy the first paid Token Plan within 30 days of binding the code",
       "new_user_gets": "10% off your first paid MiMo Token Plan",
       "device": "any",
-      "instruction": "Have the user enter 8MK7HP in the invite code box in the console sidebar (within 3 days of creating the account; the first paid Token Plan must follow within 30 days). Original invitation: https://platform.xiaomimimo.com?ref=8MK7HP. Open it on the device used to register and check the referral field if one is shown.",
-      "watch_out": "The account must be under 3 days old when the code is entered, and the discount covers the first paid Token Plan only.",
+      "instruction": "Have the user enter 8MK7HP in the invite code box in the console sidebar (within 3 days of creating the account; buy the first paid Token Plan within 30 days of binding the code). Original invitation: https://platform.xiaomimimo.com?ref=8MK7HP. Open it on the device used to register and check the referral field if one is shown.",
+      "watch_out": "The discount excludes API top-ups and accounts that already received at least one free month of Token Plan.",
       "referrer_limit": null,
       "offer_ends": null,
       "referrer_reward": {
@@ -642,7 +642,7 @@
         "description": "MiMo API credits"
       },
       "disclosure_text": "The member sharing this referral may receive MiMo API credits when you qualify.",
-      "source": "https://mimo.mi.com/docs/promotions/refer"
+      "source": "https://mimo.mi.com/docs/en-US/quick-start/faq/promotions"
     }
   ]
 }
