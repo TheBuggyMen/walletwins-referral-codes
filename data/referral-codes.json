@@ -27,6 +27,12 @@
       "device": "mobile app",
       "instruction": "Have the user enter 33VCH3 in the Referral Code box at sign-up or Account > Invite a Friend > Enter an Invite Code (some accounts show Enter Referral Code directly) (before you scan your first receipt). Original invitation: https://referral.fetch.com/vvv3/share?code=33VCH3. Open it on the device used to register and check the referral field if one is shown. Apply the code before scanning your first qualifying receipt, then scan the receipt.",
       "watch_out": "Enter the code before you scan anything; it cannot be added after your first receipt. Points turn into gift cards, not cash (about 1,000 points = $1; rewards start at 3,000 points). Fetch's referral page quotes 2,000 as typical. The amount shown in your app controls.",
+      "steps": [
+        "Open the referral link or enter 33VCH3 at sign-up. If you already joined and have not scanned a receipt, open Account and use Invite a Friend > Enter an Invite Code, or Enter Referral Code if shown.",
+        "Snap your first qualifying receipt after applying the code.",
+        "Fetch credits both accounts after the qualifying receipt is processed. Check the points displayed in the app."
+      ],
+      "qualification": "Apply the code before scanning your first qualifying receipt, then scan the receipt.",
       "referrer_limit": null,
       "offer_ends": null,
       "referrer_reward": {
@@ -107,6 +113,13 @@
       "device": "any",
       "instruction": "Have the user enter thebuggymen in the referral code field during Polymarket US sign-up (before completing registration; verify the username even if the invite link prefilled it). Original invitation: https://polymarket.us/join/thebuggymen. Open it on the device used to register and check the referral field if one is shown. Verify the code in Polymarket US before submitting sign-up. Follow the deposit, qualifying trade and deadline shown in the app. Your referral bonus is $25 in trading funds. Follow the deposit, qualifying trading and deadline requirements shown in the app.",
       "watch_out": "The credit is for positions and fees and cannot be withdrawn as cash. Trading can lose your deposit.",
+      "steps": [
+        "Start your first Polymarket US account in an eligible location (18+).",
+        "Check that the referral field shows thebuggymen. If it is empty, type the code before completing sign-up and verify your identity.",
+        "Your referral bonus is $25 in trading funds. Follow the deposit, qualifying trading and deadline requirements shown in the app.",
+        "Use the code at onboarding, verify your identity, and meet the active campaign's deposit and qualifying trading requirements by its deadline."
+      ],
+      "qualification": "Verify the code in Polymarket US before submitting sign-up. Follow the deposit, qualifying trade and deadline shown in the app.",
       "referrer_limit": "Referral cap is set by the active campaign",
       "offer_ends": null,
       "referrer_reward": {
@@ -142,6 +155,12 @@
       "device": "mobile app",
       "instruction": "Have the user enter FEN2N in the Referral Code field during sign-up (before you finish registering). Original invitation: https://get.fliffapp.com/QlC3/kclij8r7. Open it on the device used to register and check the referral field if one is shown. If the link opens an app store, enter the code in Fliff before finishing registration. Any first-purchase promotion applies only if you choose to make an eligible purchase.",
       "watch_out": "The double applies to your first purchase only, and buying is optional: Fliff Cash is free promotional currency, and eligible winnings still need play-through, identity verification and 50 Fliff Cash before a prize redemption. The $100 shown in the app is the referrer's maximum XP reward value per friend (10,000 XP), not a sign-up payment to you.",
+      "steps": [
+        "Tap the button, or download Fliff and enter code FEN2N before you finish registering (18+ or your local age of majority).",
+        "Play free first: claim Fliff Coins and try the social sportsbook. No purchase is ever required.",
+        "If you choose to buy a first Fliff Coin package, the referral doubles the Fliff Coins and bonus Fliff Cash attached to that purchase."
+      ],
+      "qualification": "If the link opens an app store, enter the code in Fliff before finishing registration. Any first-purchase promotion applies only if you choose to make an eligible purchase.",
       "referrer_limit": null,
       "offer_ends": null,
       "referrer_reward": {
@@ -160,7 +179,7 @@
       "rail": "hybrid",
       "code": "QFPSU7",
       "code_field": "promo/referral code field during registration",
-      "code_moment": null,
+      "code_moment": "at registration, before you submit your new account",
       "signup_url": "https://prophetx.onelink.me/E5Yi/4setek2c",
       "signup_url_carries_referral": true,
       "attribution": {
@@ -169,14 +188,20 @@
         "mobile_invitation_url": "https://prophetx.onelink.me/E5Yi/4setek2c",
         "delayed_signup": "provider_managed_not_confirmed",
         "confirmed_click_window_days": null,
-        "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code QFPSU7 for the provider's referral field. Follow the offer's registration and qualifying-action deadlines.",
+        "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code QFPSU7 for the provider's referral field. at registration, before you submit your new account",
         "credit_confirmation": "The provider must record the referral and confirm all qualifying actions; a click alone does not confirm a reward."
       },
-      "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code QFPSU7 for the provider's referral field. Follow the offer's registration and qualifying-action deadlines.",
+      "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code QFPSU7 for the provider's referral field. at registration, before you submit your new account",
       "new_user_gets": "$40 in welcome credits for $40 of opening trades; separate eligibility applies to the $25 referral credit",
       "device": "any",
-      "instruction": "Have the user enter QFPSU7 in the promo/referral code field during registration. Original invitation: https://prophetx.onelink.me/E5Yi/4setek2c. Open it on the device used to register and check the referral field if one is shown. The $40 welcome credits and the separate $25 referral credit have different requirements. The referral credit requires a single $50 deposit and $50 in trades. Confirm eligibility for each offer in ProphetX.",
+      "instruction": "Have the user enter QFPSU7 in the promo/referral code field during registration (at registration, before you submit your new account). Original invitation: https://prophetx.onelink.me/E5Yi/4setek2c. Open it on the device used to register and check the referral field if one is shown. The $40 welcome credits and the separate $25 referral credit have different requirements. The referral credit requires a single $50 deposit and $50 in trades. Confirm eligibility for each offer in ProphetX.",
       "watch_out": "Trading credits are not cash. Issued installments expire after 45 days; later releases require full use of prior installments. The amended welcome applies to qualification dates from October 29, 2026; earlier qualifiers keep their original terms. It ends December 31, 2026 or at 50,000 qualifying participants unless changed or extended. The separate $25 referral credit still requires a single $50 deposit and $50 in trades.",
+      "steps": [
+        "Create your first eligible ProphetX account with code QFPSU7, verify identity and confirm your location and age are eligible.",
+        "For the amended welcome, complete $40 in opening trades using your own funds within 30 days of approval; no price ceiling applies. The separate referral credit requires a single $50 deposit and $50 in trades.",
+        "Receive $10 on day 1, $10 on day 8 and $20 on day 15 after qualification. Use the earlier installments in full by the next scheduled release or lose that release and the remaining ones."
+      ],
+      "qualification": "The $40 welcome credits and the separate $25 referral credit have different requirements. The referral credit requires a single $50 deposit and $50 in trades. Confirm eligibility for each offer in ProphetX.",
       "referrer_limit": null,
       "offer_ends": null,
       "referrer_reward": {
@@ -212,6 +237,12 @@
       "device": "mobile app",
       "instruction": "Have the user enter U-EL1-ABP-4P in the referral code field during sign-up (when the app asks for it at sign-up). Original invitation: https://play.rebet.app/share/referral/U-EL1-ABP-4P. Open it on the device used to register and check the referral field if one is shown. Check the referral code at sign-up. The inviter's reward requires an eligible first bundle purchase.",
       "watch_out": "WalletWins may receive promotional play when you qualify. You receive ReBet's standard new-player offer. Rebet Cash that arrives with a bundle must be played at least once before it counts toward a prize (Rebet may require up to 30 plays), and every prize request needs full identity verification - Social Security number and government ID via Plaid. The sweepstakes excludes AZ, CA, CT, ID, LA, MD, MI, MT, NV, NJ, NY and TN, Florida caps prizes at $5,000 per entry period, and Rebet may withdraw or alter promotions without notice.",
+      "steps": [
+        "Tap the button (or download ReBet from the App Store) and create your account, entering referral code U-EL1-ABP-4P when the app asks - the share link attaches it automatically. Players must be 18 or older.",
+        "Claim your sign-up coins and, when you are ready, buy a first bundle of USD10 or more: the standard new-player offer matches it 100% up to $100 (ReBet sets the offer; confirm it in the app before buying).",
+        "Play your own Cash in games so it can become prize-eligible, then verify your identity to request prizes."
+      ],
+      "qualification": "Check the referral code at sign-up. The inviter's reward requires an eligible first bundle purchase.",
       "referrer_limit": null,
       "offer_ends": null,
       "referrer_reward": {
@@ -247,6 +278,12 @@
       "device": "any",
       "instruction": "Have the user enter thebuggymen in the referral code field at sign-up (the code is the referrer's ParlayPlay username) (at sign-up; if it was missed, ParlayPlay support can add it afterwards). Original invitation: https://parlayplay.io/account/signup?coupon=thebuggymen. Open it on the device used to register and check the referral field if one is shown. Confirm the code before completing sign-up. If the registration page does not open, use the official app. If you already registered without the code, ask ParlayPlay support about adding it. If the invitation does not open, copy the code and enter it during signup through the official app: https://apps.apple.com/us/app/id1634803703 or https://play.google.com/store/apps/details?id=com.parlayplay.app.",
       "watch_out": "Your welcome includes the $1 sign-up reward plus the deposit match. Promo Funds and Free Entries expire 7 days after they are credited and cannot be withdrawn - only winnings from Promo Funds are paid as cash. If you forget the code at sign-up, ParlayPlay support can add it afterwards. Paid contests are closed in HI, ID, LA, MT, NV, OR and WA.",
+      "steps": [
+        "Tap the button, or enter referral code thebuggymen when you create your ParlayPlay account (18+; 19+ in AL and NE, 21+ in AZ and MA; geolocation required).",
+        "Choose your sign-up reward - a $1 Free Entry or a $1 Free Pack - and complete identity verification, including email and phone if asked.",
+        "Make a first deposit of $10 or more: ParlayPlay matches it 100% up to $100 in Promo Funds. WalletWins may receive a Free Entry when you qualify."
+      ],
+      "qualification": "Confirm the code before completing sign-up. If the registration page does not open, use the official app. If you already registered without the code, ask ParlayPlay support about adding it.",
       "referrer_limit": "10 rewarded referrals per referrer",
       "offer_ends": null,
       "referrer_reward": {
@@ -282,6 +319,12 @@
       "device": "mobile app",
       "instruction": "Have the user enter PJ108185 in the referral code field during in-app sign-up (check or enter the code during sign-up, before your first Coins purchase). Original invitation: https://api.courtside.app/r/PJ108185. Open it on the device used to register and check the referral field if one is shown. Copy the code before opening the invitation. If it opens an app store, check the referral field in the Courtside app at sign-up and enter the code if missing. Keep the personal referral code for this invitation. Check that it remains applied before completing the first eligible $10+ Courtside Coins purchase.",
       "watch_out": "The 100 is free play, not cash: Free Picks and Flex Spins play in Courtside's games, and only Courtside Cash won under the Official Rules can become a prize - collected Cash must be played at least once at displayed odds of -300 or longer, redemption starts at 50 eligible Cash ($50), processing can take up to 30 days, and Courtside may require more play (up to 20x) at its discretion. Courtside does not publish a fixed referral reward for the member who shares the code; the documented offer is the new player's free play. Coin purchases are final, with no refunds.",
+      "steps": [
+        "Copy PJ108185 before opening the invitation. Download Courtside (iOS or Android) and check the referral field during sign-up. If it is empty, enter PJ108185 (18+; unavailable in CA, CT, ID, IN, LA, ME, MI, MT, NV, NJ, NY, TN and WA).",
+        "Play free with your starting Courtside Coins, then make a first Courtside Coins purchase of $10 or more with the code attached.",
+        "100 in free play lands in your account: 50 in Free Picks for sports contests and 50 in Flex Spins for casino games."
+      ],
+      "qualification": "Copy the code before opening the invitation. If it opens an app store, check the referral field in the Courtside app at sign-up and enter the code if missing.",
       "referrer_limit": null,
       "offer_ends": null,
       "referrer_reward": {
@@ -317,6 +360,12 @@
       "device": "mobile app",
       "instruction": "Have the user enter U-ZEF-VAL-M2 in the referral code field during sign-up (when the app asks for it at sign-up). Original invitation: https://snoopdogg.appsonair.link/U-ZEF-VAL-M2. Open it on the device used to register and check the referral field if one is shown. Check the code at sign-up. The inviter's reward requires a bundle carrying at least 10 Dogg Cash. Free play and mail-in entries follow separate rules.",
       "watch_out": "Dogg Cash (DCH) cannot be bought directly - it arrives free with marked coin packs, giveaways, the zero-balance grant and mail-in entries. The official rules do not print a numeric redemption minimum or a playthrough multiplier; only DCH played in sweepstakes games can grow into prize-eligible DCH, and prizes are paid after verification, one per account every five days. The FAQ prints a different excluded-state list (it adds CA and drops TN); the Sweepstakes Rules govern.",
+      "steps": [
+        "Tap the button (or download Dogg House Casino & Sportsbook) and create your account, entering referral code U-ZEF-VAL-M2 when the app asks - the referral link attaches it automatically. Players must be 18 or older, and sweepstakes play is closed in AZ, CT, ID, LA, MD, MI, MT, NV, NJ, NY and TN.",
+        "Play free with Dogg Coins; whenever your Dogg Cash balance hits zero, claim the 1.00 DCH zero-balance grant (once every 24 hours), or request 3 DCH per approved mail-in entry, up to 30 DCH a month. No purchase is needed for either route.",
+        "If you buy a first Dogg Cash pack, the standard new-player offer adds a 50% bonus, up to $100 (Dogg House sets the offer; confirm it in the app before buying). Disclosure: a purchase carrying 10 or more Dogg Cash also unlocks your inviter's choice of a 50 Dogg Cash free pick or 15 Dogg Casino Cash."
+      ],
+      "qualification": "Check the code at sign-up. The inviter's reward requires a bundle carrying at least 10 Dogg Cash. Free play and mail-in entries follow separate rules.",
       "referrer_limit": null,
       "offer_ends": null,
       "referrer_reward": {
@@ -385,8 +434,14 @@
       "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code THEBUGGYMEN for the provider's referral field. during sign-up (the code is the referrer's Dabble username); the first entry must follow within 7 days",
       "new_user_gets": "a 100% match of your first deposit in Bonus Cash, up to $200",
       "device": "mobile app",
-      "instruction": "Have the user enter THEBUGGYMEN in the referral code field during sign-up (during sign-up (the code is the referrer's Dabble username); the first entry must follow within 7 days). Original invitation: https://click.dabble.com/GaFA/1rf8hx4e. Open it on the device used to register and check the referral field if one is shown. Check the code in the Dabble app at sign-up. The welcome deposit match and the inviter's reward are separate: the referral requires a first entry within seven days.",
+      "instruction": "Have the user enter THEBUGGYMEN in the referral code field during sign-up (during sign-up (the code is the referrer's Dabble username); the first entry must follow within 7 days). Original invitation: https://click.dabble.com/GaFA/1rf8hx4e. Open it on the device used to register and check the referral field if one is shown. Check the code in the Dabble app at sign-up. The welcome deposit match and the inviter's reward are separate: the referral requires a first entry within seven days. If the invitation does not open, copy the code and enter it during signup through the official app: https://apps.apple.com/us/app/id6467868797 or https://play.google.com/store/apps/details?id=com.dabblesports.us_fantasy.",
       "watch_out": "The match is Bonus Cash, not cash: it cannot be withdrawn, an entry funded with it must be funded entirely with Bonus Cash, and the stake is not returned on wins. Real-money play covers 31 states + DC; in AZ, AR, CO, IL, KS, ME, MA, NH, TN, WV and WY entries run as peer-to-peer contests rather than the standard pay table. Referral funds show a 14-day expiry in the app while Dabble's help article says 7 days - plan on the shorter clock. The current promotions run through December 31, 2026 and can change at Dabble's discretion.",
+      "steps": [
+        "Tap the button and create your first Dabble account with code THEBUGGYMEN (18+ in most real-money states; 19+ in AL and NE, 21+ in AZ, IL, MA and VA; identity verification and geolocation required).",
+        "Make a first deposit of $10 or more in a single transaction: the standard new-user offer (Nov 9 to Dec 31, 2026; not in FL or RI) matches it 100% in Bonus Cash, up to $200. Dabble sets the offer, so confirm it in the app before depositing, and use the Bonus Cash within 7 days.",
+        "Place your first entry within 7 days of registering. WalletWins may receive Bonus Cash once you qualify."
+      ],
+      "qualification": "Check the code in the Dabble app at sign-up. The welcome deposit match and the inviter's reward are separate: the referral requires a first entry within seven days.",
       "referrer_limit": null,
       "offer_ends": "2026-12-31",
       "referrer_reward": {
@@ -422,6 +477,12 @@
       "device": "mobile app or web",
       "instruction": "Have the user enter SX6ZWM in the referral code field during sign-up (at sign-up; check the code on the invitation route before submitting). Original invitation: https://link.splashsports.com/6OOI/czcwnadk. Open it on the device used to register and check the referral field if one is shown. Check the code before submitting sign-up. Deposit at least $10, then enter your first $10+ contest. The credit posts when that contest locks. Splash credit has no cash value, cannot be withdrawn, and expires 30 days after it is awarded if unused (Terms of Use, section 12.4).",
       "watch_out": "WalletWins may receive $10 in Splash credit when you qualify. Splash credit is promotional: under section 12.4 of Splash's Terms of Use it has no cash value, cannot be withdrawn or transferred, may not combine with certain other promotions, and expires 30 days after it is awarded if unused. Splash can change or end the Refer a Friend program at any time. Contests are peer-to-peer: you play against other users, Splash never takes the other side, and most entrants in a contest do not profit.",
+      "steps": [
+        "Tap the button (or download Splash Sports) and create your account. Check that referral code SX6ZWM is in the sign-up field and enter it if missing. Verify your identity: 18+ in most states, 19+ in AL and NE, 21+ in AZ, IA, LA, MA and VA.",
+        "Deposit $10 or more and enter a first contest worth $10 or more: a QuickPicks entry, a Pick'Em or a Survivor buy-in all count.",
+        "When that contest locks, Splash credits $10 in Splash credit to you and $10 to the member who shared the code. Play yours within 30 days: unused Splash credit expires."
+      ],
+      "qualification": "Check the code before submitting sign-up. Deposit at least $10, then enter your first $10+ contest. The credit posts when that contest locks.",
       "referrer_limit": "no referral cap published by Splash Sports",
       "offer_ends": null,
       "referrer_reward": {
@@ -457,6 +518,12 @@
       "device": "mobile app (iOS or Android)",
       "instruction": "Have the user enter 2BB83B4F in the referral code field during sign-up in the app (registration is app-only) (at sign-up; the $20 promo play lands after your first deposit ($10 minimum) and $10 played). Original invitation: https://flexbets.app.link/3x5K8Ajqj8b. Open it on the device used to register and check the referral field if one is shown. Register in the FlexBets app and check the code before finishing. The promo play follows a first deposit of at least $10 and $10 in qualifying play. Promo play cannot be withdrawn, the promotional part of an entry is deducted from that entry's payout, and unused promo funds expire at the end of their designated promotional period (Official Contest Rules). FlexBets launched in April 2026 - a new operator with a short track record; start small.",
       "watch_out": "WalletWins may receive $20 in promo play when you qualify. Promo play is not cash: under FlexBets' Official Contest Rules it cannot be withdrawn, the promotional part of an entry is deducted from any payout on that entry, and winnings from promo-funded entries are subject to playthrough requirements; unused promo funds expire at the end of their designated promotional period, whose length FlexBets sets in the app and does not publish on the web. One transparency note we print on every young operator: FlexBets launched in April 2026 and has a short public track record, so start with the minimum, read the program terms inside the app, and never treat promo play as income. FlexBets can change or end the referral program at any time.",
+      "steps": [
+        "Download FlexBets (iOS or Android) and create your account, entering referral code 2BB83B4F when sign-up asks - or open the referrer's link or QR first so the app can attach the invitation. Verify your identity and location: 18+ in most states, 19+ or 21+ in a few.",
+        "Deposit $10 or more (the platform minimum is $10) and play $10 in contests: pick'em entries, head-to-head or team contests all count.",
+        "When the deposit and the $10 in play are complete, FlexBets credits $20 in promo play to you and $20 in promo play to the member who shared the code. Promo play expires at the end of its promotional period, so use it rather than parking it."
+      ],
+      "qualification": "Register in the FlexBets app and check the code before finishing. The promo play follows a first deposit of at least $10 and $10 in qualifying play.",
       "referrer_limit": "no referral cap published by FlexBets",
       "offer_ends": null,
       "referrer_reward": {
@@ -475,7 +542,7 @@
       "rail": "hybrid",
       "code": "PR-RI2XMJN",
       "code_field": "promo/referral code field during sign-up",
-      "code_moment": null,
+      "code_moment": "when creating your first account, before you submit sign-up",
       "signup_url": "https://prizepicks.onelink.me/FjtC/xf844vp4",
       "signup_url_carries_referral": true,
       "attribution": {
@@ -484,14 +551,20 @@
         "mobile_invitation_url": "https://prizepicks.onelink.me/FjtC/xf844vp4",
         "delayed_signup": "provider_managed_not_confirmed",
         "confirmed_click_window_days": null,
-        "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code PR-RI2XMJN for the provider's referral field. Follow the offer's registration and qualifying-action deadlines.",
+        "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code PR-RI2XMJN for the provider's referral field. when creating your first account, before you submit sign-up",
         "credit_confirmation": "The provider must record the referral and confirm all qualifying actions; a click alone does not confirm a reward."
       },
-      "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code PR-RI2XMJN for the provider's referral field. Follow the offer's registration and qualifying-action deadlines.",
+      "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code PR-RI2XMJN for the provider's referral field. when creating your first account, before you submit sign-up",
       "new_user_gets": "$50 in Bonus Lineups after your first $5+ lineup",
       "device": "any",
-      "instruction": "Have the user enter PR-RI2XMJN in the promo/referral code field during sign-up. Original invitation: https://prizepicks.onelink.me/FjtC/xf844vp4. Open it on the device used to register and check the referral field if one is shown. Check the code at sign-up. A qualifying deposit is the referral trigger; the new user's welcome bonus also requires a first $5+ Player Picks lineup. If the invitation does not open, copy the code and enter it during signup through the official app: https://www.prizepicks.com/download/signup.",
+      "instruction": "Have the user enter PR-RI2XMJN in the promo/referral code field during sign-up (when creating your first account, before you submit sign-up). Original invitation: https://prizepicks.onelink.me/FjtC/xf844vp4. Open it on the device used to register and check the referral field if one is shown. Check the code at sign-up. A qualifying deposit is the referral trigger; the new user's welcome bonus also requires a first $5+ Player Picks lineup. If the invitation does not open, copy the code and enter it during signup through the official app: https://www.prizepicks.com/download/signup.",
       "watch_out": "Bonus Lineups are not cash and they expire, and Player Picks runs in 36 states + DC, not nationwide (no Player Picks in CT, HI, ID, IA, LA, MD, MI, MS, MT, NV, NJ, OH, PA or WA). PrizePicks says referral amounts vary by location and account.",
+      "steps": [
+        "Tap the button and create your first PrizePicks account with code PR-RI2XMJN (18+ in most eligible states; 19+ in AL and CO, 21+ in AZ, IL, MA and VA).",
+        "Deposit at least $10 and enter a first $5+ lineup that includes Player Picks: the standard new-user offer adds $50 in Bonus Lineups (PrizePicks sets the offer and allows one welcome offer per user; check the amount in the app).",
+        "WalletWins may receive promotional lineups when you complete the qualifying steps."
+      ],
+      "qualification": "Check the code at sign-up. A qualifying deposit is the referral trigger; the new user's welcome bonus also requires a first $5+ Player Picks lineup.",
       "referrer_limit": "10 rewarded referrals per 30 days",
       "offer_ends": "2026-12-31",
       "referrer_reward": {
@@ -585,6 +658,13 @@
       "device": "any",
       "instruction": "For web, open https://manus.im/invitation/CVKGXD09ZA6AEN1 and keep CVKGXD09ZA6AEN1; if needed, enter it at https://manus.im/redeem just after sign-up. For the mobile app, open https://manus.im/mobile-app/invite?code=MNRBH4SG7PVWZL&utm_source=invitation&utm_medium=social&utm_campaign=qr_code on the registration phone. Use one invitation for the device and confirm the credits in Manus.",
       "watch_out": "Your referral bonus is 500 credits at sign-up, on top of the free plan. A task's credit cost is known after it runs, and monthly plan credits do not roll over.",
+      "steps": [
+        "Open the invitation link and create your account from it (Manus's Terms require users to be 18 or older). It attaches code CVKGXD09ZA6AEN1; if you joined another way, enter the code at manus.im/redeem right after signing up. No card is asked for the free plan.",
+        "Your account opens on the standard free stack, per the Help Center: 1,000 credits at registration and 300 refresh credits every day. On the free plan, refresh spending is capped at 1,500 credits a month and runs the Lite agent, and free credits never expire.",
+        "You get 500 bonus credits when you sign up through the invitation (owner-verified in the app, November 21, 2026). WalletWins may receive Manus credits when you complete the qualifying steps.",
+        "Spend your credits on real work, priced by Manus's own examples: a 15-minute data analysis with a chart costs 200 credits, a designed, coded and deployed website 360, and an 80-minute web app 900.",
+        "Choose a paid plan only if its capacity fits your needs. Monthly plan credits do not roll over."
+      ],
       "referrer_limit": null,
       "offer_ends": null,
       "referrer_reward": {
@@ -618,8 +698,13 @@
       "resume_instruction": "When ready to register, reopen the original invitation on the device you will use and keep code THEBUGGYMEN for the provider's referral field. at sign-up; tap Add Promo Code if the field is empty",
       "new_user_gets": "$50 bonus + a free Rips pack worth up to $150",
       "device": "any",
-      "instruction": "Have the user enter THEBUGGYMEN in the \"Promo Code (optional)\" field at sign-up (the code is the referrer's username) (at sign-up; tap Add Promo Code if the field is empty). Original invitation: https://play.underdogsports.com/vgwg/td9eq9ef. Open it on the device used to register and check the referral field if one is shown. Use only this code: Underdog has one promo code field and a different promo code voids the referral. Per Underdog's help center a referred friend still gets the standard new-user welcome offer plus a Rips pack, so a referral code is worth at least as much as a publisher promo code.",
+      "instruction": "Have the user enter THEBUGGYMEN in the \"Promo Code (optional)\" field at sign-up (the code is the referrer's username) (at sign-up; tap Add Promo Code if the field is empty). Original invitation: https://play.underdogsports.com/vgwg/td9eq9ef. Open it on the device used to register and check the referral field if one is shown. If the invitation does not open, copy the code and enter it during signup through the official app: https://www.underdogsports.com/. Use only this code: Underdog has one promo code field and a different promo code voids the referral. Per Underdog's help center a referred friend still gets the standard new-user welcome offer plus a Rips pack, so a referral code is worth at least as much as a publisher promo code.",
       "watch_out": "Use this code alone: Underdog has a single promo code field, and its help page says a different promo code makes the referral invalid. Bonus funds aren't cash: they carry a playthrough, fund fantasy entries only, and can't be used on entries below a 2x payout multiplier. The pack's $150 is a max upside, not a guarantee, and packs aren't available in Nevada or Canada.",
+      "steps": [
+        "Tap the button and create your Underdog account (18+; 19+ in AL and NE, 21+ in AZ, MA and VA under the referral program terms).",
+        "Enter THEBUGGYMEN under \"Promo Code (optional)\" when you sign up; tap Add Promo Code if the field is not already filled.",
+        "Deposit and place your first entry of $10 or more with deposited funds. Your $50 bonus and free Rips pack follow the offer in your account."
+      ],
       "referrer_limit": null,
       "offer_ends": null,
       "referrer_reward": {
@@ -656,6 +741,11 @@
       "device": "any",
       "instruction": "Give the user code NSI91S before the join link. Open https://muse.ai/join, finish setting up the new Muse, then within 48 hours go to Settings > General > Redeem invite code (Redeem token on mobile), enter NSI91S, and confirm. Check Settings > General for the additional tokens. The join link does not attach the code.",
       "watch_out": "The join page does not attach the invitation. If redemption fails, check the exact code, new-account eligibility and the 48-hour window. Muse controls redemption and any code limits.",
+      "steps": [
+        "Copy or relay NSI91S before opening the official sign-up page.",
+        "Finish setting up your new Muse account.",
+        "Within 48 hours of joining, open Settings > General > Redeem invite code (Redeem token on mobile), enter NSI91S, and confirm. Check Settings > General for the additional tokens."
+      ],
       "referrer_limit": null,
       "offer_ends": null,
       "referrer_reward": {
@@ -692,6 +782,11 @@
       "device": "any",
       "instruction": "Have the user enter 8MK7HP in the invite code box in the console sidebar (within 3 days of creating the account; buy the first paid Token Plan within 30 days of binding the code). Original invitation: https://platform.xiaomimimo.com?ref=8MK7HP. Open it on the device used to register and check the referral field if one is shown.",
       "watch_out": "The discount excludes API top-ups and accounts that already received at least one free month of Token Plan.",
+      "steps": [
+        "Sign up at platform.xiaomimimo.com.",
+        "Within 3 days of creating the account, enter invite code 8MK7HP in the console sidebar.",
+        "Buy your first paid Token Plan within 30 days of binding the code to receive the 10% discount."
+      ],
       "referrer_limit": null,
       "offer_ends": null,
       "referrer_reward": {
